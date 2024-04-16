@@ -44,8 +44,10 @@ const handleSubmit = (e) => {
     setPassword('');
     setErrorMessage('');
     alert("Signup successful");
+    
     setSignupSuccess(true); 
   } catch (error) {
+    console.log(storedEmail,storedPassword)
     console.error('Signup failed:', error.message);
     setErrorMessage('Failed to signup. Please try again.');
   }

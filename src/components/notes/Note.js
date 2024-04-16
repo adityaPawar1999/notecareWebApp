@@ -37,6 +37,7 @@ function Note({
       imageOrVideoLink: editedImageLink,
       backgroundColor: editedBackgroundColor
     });
+    console.log(setEditedBackgroundColor)
   };
 
   const handleDelete = () => {

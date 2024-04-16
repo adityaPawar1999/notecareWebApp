@@ -40,6 +40,7 @@ function LoginForm() {
     setPassword('');
     setErrorMessage('');
   } else {
+    console.log(storedFname);
     setErrorMessage('Invalid email or password. Please try again.');
   }
 };
