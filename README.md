@@ -1,5 +1,5 @@
 # NoteCare: Your Personal Note-Taking App
-NoteHub is a versatile note-taking web application built with React, featuring user authentication, CRUD operations on notes, search functionality, and customizable note colors.
+NoteCare is a versatile note-taking web application built with React, featuring user authentication, CRUD operations on notes, search functionality, and customizable note colors.
 
 https://main--fancy-pony-9bad71.netlify.app/
 
