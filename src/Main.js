@@ -5,6 +5,7 @@ import SignupForm from './components/auth/SignupForm';
 import AddNoteForm from './components/notes/AddNoteForm';
 import App from './App'; 
 
+
 function Main() {
   return (
     <Router> 
