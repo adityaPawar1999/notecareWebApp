@@ -106,8 +106,7 @@ function Note({
     )}
   </>
 )}
-
-            <br/><br/>
+            <br/>
             <div className='absolute w-[100%] left-0 bottom-[0rem] p-2 bg-gray-600 h-[2.5rem] opacity-60 text-white '></div>
             <div className='absolute w-[100%] left-0 bottom-[0rem]  text-white '>
               <IconButton onClick={handleEdit}><EditNoteIcon/></IconButton>
